@@ -42,12 +42,12 @@
     padding: 1em;
 }
 
-.descrição_título{
+.descrição_titulo{
     color: var(--laranja);
     font-weight: 700;
 }
 
-.descrição_título-livro{
+.descrição_titulo-livro{
     color: var(--azul);
     font-size: 18px;
     font-weight: 700;
@@ -59,7 +59,7 @@
 }
 
 .botões_item{
-    margin: 0.05em;
+    margin: 0 0.5em;
 }
 
 .botões_ancora{
@@ -68,4 +68,8 @@
     font-weight: 700;
     color: var(--branco);
     text-decoration: none;
+}
+
+.estrelinhas{
+    padding: 0.5em 0.5em 0.5em 0;
 }
